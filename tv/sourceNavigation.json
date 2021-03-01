@@ -59,7 +59,7 @@
       "name": "央卫(更新:20210205)",
       "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
       "url": "https://raw.githubusercontent.com/shiran588/freed/master/tv/live.m3u",
-      "type": "txt",
+      "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
       "autoNext": false,
