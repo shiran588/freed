@@ -1,6 +1,28 @@
 {
   "data": [
     {
+      "name": "央视(更新20210302)",
+      "pic": "http://photo.16pic.com/00/50/96/16pic_5096230_b.jpg",
+      "url": "https://wdkj123.oss-cn-hangzhou.aliyuncs.com/yangshi.m3u",
+      "type": "m3u",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": true,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "卫视(更新:20210302)",
+      "pic": "http://image.hnol.net/c/2011-03/20/20/201103202043114431-239867.jpg",
+      "url": "https://wdkj123.oss-cn-hangzhou.aliyuncs.com/weishi.m3u",
+      "type": "m3u",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "(新增)稳定轮播*荐*",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/douyu.txt",
@@ -23,9 +45,9 @@
       "webPlus": {}
     },
     {
-      "name": "(新增)hy电视(选IJK解码)",
-      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkc6qp2sj31hc0u0k1p.jpg",
-      "url": "https://raw.githubusercontent.com/shiran588/freed/master/tv/电视轮播.txt",
+      "name": "(新增)成人视频(选IJK解码)",
+      "pic": "https://5ggz4.xyz:1443/pic/preview/1608955986-qingquzhifunvshenbaichufengsaodezishigeinikan/1/photo_2020-12-24_21-48-19.jpg",
+      "url": "https://wdkj123.oss-cn-hangzhou.aliyuncs.com/chengren.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -53,17 +75,6 @@
       "click": false,
       "autoNext": false,
       "decoder": 1,
-      "webPlus": {}
-    },
-    {
-      "name": "央卫(更新:20210205)",
-      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
-      "url": "https://raw.githubusercontent.com/shiran588/freed/master/tv/live.m3u",
-      "type": "m3u",
-      "subTitle": "经典动画电影整理中",
-      "click": true,
-      "autoNext": false,
-      "decoder": 0,
       "webPlus": {}
     },
     {
