@@ -23,8 +23,8 @@
       "webPlus": {}
     },
     {
-      "name": "(新增)稳定轮播*荐*",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "name": "电影娱乐*",
+      "pic": "https://i.loli.net/2021/03/04/UNOQgb1ndHtyjpM.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/douyu.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
@@ -34,8 +34,8 @@
       "webPlus": {}
     },
     {
-      "name": "(新增)hy电影(选IJK解码)",
-      "pic": "https://tva1.sinaimg.cn/large/a15b4afegy1fmvjekvk6yj21hc0u0h7x.jpg",
+      "name": "电影轮播(选IJK解码)",
+      "pic": "https://i.loli.net/2021/03/04/7Q6JRPTiuDtpesM.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
       "type": "txt",
       "subTitle": "",
@@ -46,7 +46,7 @@
     },
     {
       "name": "(新增)成人视频(选IJK解码)",
-      "pic": "https://5ggz4.xyz:1443/pic/preview/1608955986-qingquzhifunvshenbaichufengsaodezishigeinikan/1/photo_2020-12-24_21-48-19.jpg",
+      "pic": "https://i.loli.net/2021/03/04/lAIacCqpebTtjHz.jpg",
       "url": "https://wdkj123.oss-cn-hangzhou.aliyuncs.com/chengren.txt",
       "type": "txt",
       "subTitle": "",
@@ -56,8 +56,8 @@
       "webPlus": {}
     },
     {
-      "name": "(新增)hy综艺(选IJK解码)",
-      "pic": "https://tva4.sinaimg.cn/large/a15b4afely1fnt9plhh8oj21hc0u0dxy.jpg",
+      "name": "(新增)综艺轮播(选IJK解码)",
+      "pic": "https://i.loli.net/2021/03/04/ul7jLQBhd8MHNS6.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/综艺轮播.txt",
       "type": "txt",
       "subTitle": "",
@@ -90,7 +90,7 @@
     },
     {
       "name": "YY轮播(选IKJ解码)",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
+      "pic": "https://i.loli.net/2021/03/04/B63nPj8ITacAkER.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/yy.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
