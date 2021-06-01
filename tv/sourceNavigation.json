@@ -36,8 +36,8 @@
     {
       "name": "电影轮播(选IJK解码)",
       "pic": "https://i.loli.net/2021/03/04/7Q6JRPTiuDtpesM.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
-      "type": "txt",
+      "url": "https://cdn.jsdelivr.net/gh/shiran588/m3u/轮播电影.m3u",
+      "type": "m3u",
       "subTitle": "",
       "click": true,
       "autoNext": false,
